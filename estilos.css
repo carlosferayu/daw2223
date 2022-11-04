@@ -1,20 +1,10 @@
 body {
-<<<<<<< HEAD
-    background-color: white;
-=======
-    background: linear-gradient(to right, #880044, #AA1155, #DD1155 );
+    background: linear-gradient(to left, #880044, #AA1155, #DD1155 );
 }
 h1,h2,h3 {
     color:white; 
->>>>>>> e661ee70f5ca1d425d4443fca01850186b4fe59a
 }
 h1{
     font-family: Arial;
     background-color:rgb(160, 160, 160);
 }
-<<<<<<< HEAD
-h1,h2,h3 {
-    color:red;
-}
-=======
->>>>>>> e661ee70f5ca1d425d4443fca01850186b4fe59a
