@@ -1,6 +1,6 @@
 body {
-    background-color:rgb(160, 160, 160);
+    background: linear-gradient(to right, #880044, #AA1155, #DD1155 );
 }
 h1,h2,h3 {
-    color:red;
+    color:white;
 }
