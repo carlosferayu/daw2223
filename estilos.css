@@ -1,6 +1,13 @@
 body {
+<<<<<<< HEAD
+    background-color: white;
+}
+h1{
+    font-family: Arial;
+=======
     background-color:rgb(160, 160, 160);
 }
 h1,h2,h3 {
     color:red;
+>>>>>>> f4ea7d46cf54003e5b22c350483d0b87a64a9b23
 }
