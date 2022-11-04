@@ -5,3 +5,6 @@ function cambiarColor(){
 
 //alerta
 alert("Ya es viernes");
+
+//alerta2
+alert("Ya es viernes!!!!!!!!!!!!!!!!!!!!!")
