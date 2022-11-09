@@ -1,2 +1,2 @@
 # daw2223
-Creamos un proyecto común en el que compartiremos TODOS los ficheros
+Creamos un proyecto común en el que compartiremos TODOS los ficheros.
