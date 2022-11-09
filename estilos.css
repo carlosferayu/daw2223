@@ -2,7 +2,7 @@ body {
     background: linear-gradient(to left, #880044, #AA1155, #DD1155 );
 }
 h1,h2,h3 {
-    color:white; 
+    color:blue; 
 }
 h1{
     font-family: Arial;
